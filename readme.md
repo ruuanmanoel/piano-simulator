@@ -15,6 +15,10 @@ Um simulador de piano virtual onde os usuários podem tocar notas usando o mouse
 - **Controle de Volume**: Ajuste o volume do som usando um slider.
 - **Mostrar/Ocultar Teclas**: Uma opção para mostrar ou ocultar as teclas do piano.
 
+## Visualizar o Projeto
+
+Você pode ver o projeto em funcionamento [aqui](https://ruuanmanoel.github.io/piano-simulator/).
+
 ## Como Usar
 
 1. **Clone o repositório** ou faça o download dos arquivos.
